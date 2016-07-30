@@ -19,7 +19,7 @@ This library can be used widely and in many applications. Some features:
 0. UpdateBuilder to update a record
   ```C#
   UpdateBuilder ub = new UpdateBuilder();
-  ub.Table = "Customer"
+  ub.Table = "Customer";
   ub.AppendValue("Name", "Test");
   ub.AppendWhere("ID", 1);
   ub.Execute();
@@ -27,14 +27,14 @@ This library can be used widely and in many applications. Some features:
 0. Deletebuilder to delete records
   ```C#
   DeleteBuilder db = new DeleteBuilder();
-  db.Table = "Customer"
+  db.Table = "Customer";
   db.AppendWhere("ID", 1);
   db.Execute();
   ```
 0. InsertBuilder to insert records
   ```C#
   InsertBuilder ib = new InsertBuilder();
-  ib.Table = "Customer"
+  ib.Table = "Customer";
   ib.AppendValue("Name", "Test");
   ib.AppendValue("Address", "Somewhere 1");
   ib.AppendValue("City", "Some City");
