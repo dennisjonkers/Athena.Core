@@ -23,12 +23,26 @@ This library can be used widely and in many applications. Some features:
   ub.AppendValue("Name", "Test");
   ub.AppendWhere("ID", 1);
   ub.Execute();
-  
-  //Or get back the identity inserted
-  int iLastRecord = ub.ExecuteIdentity();
   ```
 0. Deletebuilder to delete records
+  ```C#
+  DeleteBuilder db = new DeleteBuilder();
+  db.Table = "Customer"
+  db.AppendWhere("ID", 1);
+  db.Execute();
+  ```
 0. InsertBuilder to insert records
+  ```C#
+  InsertBuilder ib = new InsertBuilder();
+  ib.Table = "Customer"
+  ib.AppendValue("Name", "Test");
+  ib.AppendValue("Address", "Somewhere 1");
+  ib.AppendValue("City", "Some City");
+  ib.Execute();
+  
+  //Or get back the identity inserted
+  int iLastRecord = ib.ExecuteIdentity();
+  ```
 0. All is being taken care off depending on app.settings which provides the environment, once you have set up an Environment you can use above features
 
 Help out
