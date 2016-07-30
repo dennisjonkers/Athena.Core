@@ -32,4 +32,22 @@ int iLastRecord = ub.ExecuteIdentity();
 0. InsertBuilder to insert records
 0. All is being taken care off depending on app.settings which provides the environment, once you have set up an Environment you can use above features
 
-Please see our [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
+Help out
+=============
+
+There are many ways you can contribute to Athena.Cor. Like most open-source software projects, contributing code is just one of many outlets where you can help improve. Some of the things that you could help out with in Athena.Core are:
+
+Documentation (both code and features)
+Bug reports
+Bug fixes
+Feature requests
+Feature implementations
+Test coverage
+Code quality
+Sample applications
+
+Just a part of it
+=============
+
+Athena.Core is just the first part going open source. For ASP.NET applications there will come a new Repository named Athena.UI.Controls. These can be integrated throughout your backend applciations. This way you will be able to build web applications for your backend in just minutes. So keep in touch.
+
