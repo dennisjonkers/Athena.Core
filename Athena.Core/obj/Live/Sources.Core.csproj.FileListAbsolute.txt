@@ -1,0 +1,12 @@
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\Sources.Core.dll
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\itextsharp.dll
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\MySql.Data.dll
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\itextsharp.xml
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\obj\Live\Sources.Core.csprojResolveAssemblyReference.cache
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\obj\Live\Sources.Core.dll
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\Sources.Core.dll
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\itextsharp.dll
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\MySql.Data.dll
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\bin\Live\itextsharp.xml
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Live\Sources.Core.csprojResolveAssemblyReference.cache
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Live\Sources.Core.dll

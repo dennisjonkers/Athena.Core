@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Core", "Athena.Core\Athena.Core.csproj", "{CA59003A-994C-4976-A9A3-6CC6A5B2494A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1819938A-EABC-41AF-83A3-B51E71FCFB58}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Core.Test", "Athena.Core.Test\Athena.Core.Test.csproj", "{87A600ED-031F-4623-8B89-ADE86B9A365A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE2F2DE8-B5DF-44D4-A9FE-16B8B755E428}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTests.testsettings = UnitTests.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA59003A-994C-4976-A9A3-6CC6A5B2494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA59003A-994C-4976-A9A3-6CC6A5B2494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA59003A-994C-4976-A9A3-6CC6A5B2494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA59003A-994C-4976-A9A3-6CC6A5B2494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A600ED-031F-4623-8B89-ADE86B9A365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A600ED-031F-4623-8B89-ADE86B9A365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A600ED-031F-4623-8B89-ADE86B9A365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A600ED-031F-4623-8B89-ADE86B9A365A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://mserver01:8080/tfs/athenaig
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Athena.Core\\Athena.Core.csproj
+		SccProjectName1 = Athena.Core
+		SccLocalPath1 = Athena.Core
+		SccProjectUniqueName2 = Athena.Core.Test\\Athena.Core.Test.csproj
+		SccProjectName2 = Athena.Core.Test
+		SccLocalPath2 = Athena.Core.Test
+	EndGlobalSection
+EndGlobal

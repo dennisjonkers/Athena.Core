@@ -1,0 +1,12 @@
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Sources.Core.Test.dll.config
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Sources.Core.Test.dll
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Sources.Core.Test.pdb
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Athena.Core.dll
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\MySql.Data.dll
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\itextsharp.dll
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\Athena.Core.pdb
+D:\Github\Sources.Core\Sources.Core.Test\bin\Debug\itextsharp.xml
+D:\Github\Sources.Core\Sources.Core.Test\obj\Debug\Sources.Core.Test.csprojResolveAssemblyReference.cache
+D:\Github\Sources.Core\Sources.Core.Test\obj\Debug\Sources.Core.Test.dll
+D:\Github\Sources.Core\Sources.Core.Test\obj\Debug\Sources.Core.Test.pdb

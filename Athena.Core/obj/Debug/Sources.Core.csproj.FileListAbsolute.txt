@@ -1,0 +1,22 @@
+c:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.dll
+c:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.pdb
+c:\athenaig\Athena-Online\General\Athena application\bin\Sources.Core.dll
+c:\athenaig\Athena-Online\General\Athena application\bin\Sources.Core.pdb
+c:\athenaig\Athena-Online\Athena application\bin\Sources.Core.dll
+c:\athenaig\Athena-Online\Athena application\bin\Sources.Core.pdb
+C:\athenaig\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.csprojResolveAssemblyReference.cache
+c:\dev\Athena-Online\Athena application\bin\Sources.Core.dll
+c:\dev\Athena-Online\Athena application\bin\Sources.Core.pdb
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.dll
+c:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.pdb
+C:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.csprojResolveAssemblyReference.cache
+D:\dev\Athena-Online\Athena application\bin\Sources.Core.dll
+D:\dev\Athena-Online\Athena application\bin\Sources.Core.pdb
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.dll
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.pdb
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Debug\Sources.Core.csprojResolveAssemblyReference.cache
+D:\Athena application\bin\Athena.Core.dll
+D:\Athena application\bin\Athena.Core.pdb
+D:\Github\Sources.Core\Sources.Core\obj\Debug\Sources.Core.csprojResolveAssemblyReference.cache
+D:\Github\Sources.Core\Sources.Core\obj\Debug\Athena.Core.dll
+D:\Github\Sources.Core\Sources.Core\obj\Debug\Athena.Core.pdb

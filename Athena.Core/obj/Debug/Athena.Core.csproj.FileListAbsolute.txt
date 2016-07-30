@@ -1,0 +1,5 @@
+D:\Athena application\bin\Athena.Core.dll
+D:\Athena application\bin\Athena.Core.pdb
+D:\Github\Athena.Core\Athena.Core\obj\Debug\Athena.Core.csprojResolveAssemblyReference.cache
+D:\Github\Athena.Core\Athena.Core\obj\Debug\Athena.Core.dll
+D:\Github\Athena.Core\Athena.Core\obj\Debug\Athena.Core.pdb

@@ -1,0 +1,10 @@
+C:\dev\Athena-Online\Athena application\bin\Sources.Core.dll
+C:\dev\Athena-Online\Athena application\bin\Sources.Core.pdb
+C:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.csprojResolveAssemblyReference.cache
+C:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.dll
+C:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.pdb
+D:\dev\Athena-Online\Athena application\bin\Sources.Core.dll
+D:\dev\Athena-Online\Athena application\bin\Sources.Core.pdb
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.dll
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.pdb
+D:\dev\Athena-Online\General\Sources.Core\Sources.Core\obj\Release\Sources.Core.csprojResolveAssemblyReference.cache

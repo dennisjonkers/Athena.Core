@@ -1,0 +1,12 @@
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Athena.Core.Test.dll.config
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Athena.Core.Test.dll
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Athena.Core.Test.pdb
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Athena.Core.dll
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\MySql.Data.dll
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\itextsharp.dll
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\Athena.Core.pdb
+D:\Github\Athena.Core\Athena.Core.Test\bin\Debug\itextsharp.xml
+D:\Github\Athena.Core\Athena.Core.Test\obj\Debug\Athena.Core.Test.csprojResolveAssemblyReference.cache
+D:\Github\Athena.Core\Athena.Core.Test\obj\Debug\Athena.Core.Test.dll
+D:\Github\Athena.Core\Athena.Core.Test\obj\Debug\Athena.Core.Test.pdb
