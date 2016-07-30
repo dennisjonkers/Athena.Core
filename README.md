@@ -17,6 +17,7 @@ This library can be used widely and in many applications. Some features:
   dt.Rows[0][0]
   ```
 0. UpdateBuilder to update a record
+
   ```C#
   UpdateBuilder ub = new UpdateBuilder();
   ub.Table = "Customer";
@@ -25,12 +26,13 @@ This library can be used widely and in many applications. Some features:
   ub.Execute();
   ```
 0. Deletebuilder to delete records
-  ```C#
-  DeleteBuilder db = new DeleteBuilder();
-  db.Table = "Customer";
-  db.AppendWhere("ID", 1);
-  db.Execute();
-  ```
+
+```C#
+DeleteBuilder db = new DeleteBuilder();
+db.Table = "Customer";
+db.AppendWhere("ID", 1);
+db.Execute();
+```
 0. InsertBuilder to insert records
   ```C#
   InsertBuilder ib = new InsertBuilder();
